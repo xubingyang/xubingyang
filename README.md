@@ -23,6 +23,7 @@ IT and CT technology Enthusiast
 - Being a really good dad :smile:
 
 #### :computer: Tech I use: 
+<div style="text-align:left">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=white">
@@ -47,6 +48,7 @@ IT and CT technology Enthusiast
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white">
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white">
+</div>
 <br >
 <br >
 <br >
@@ -56,8 +58,10 @@ IT and CT technology Enthusiast
 <br >
 <br >
 <br >
-<img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=xubingyang&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xubingyang&layout=compact&hide_border=true" />
+<div style="text-align:center">
+<img align="left" style="width:45%" src="https://github-readme-stats.vercel.app/api?username=xubingyang&hide_border=true" />
+<img align="right" style="width:45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xubingyang&layout=compact&hide_border=true" />
+</div>
 <br >
 <br >
 <br >
@@ -66,7 +70,7 @@ IT and CT technology Enthusiast
 </div>
 <br >
 <div style="text-align:center">
-<img src="https://streak-stats.demolab.com/?user=xubingyang" />
+<img align="center" src="https://streak-stats.demolab.com/?user=xubingyang" />
 </div>
 <br >
 <div style="text-align:center">
