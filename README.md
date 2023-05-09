@@ -24,8 +24,8 @@ IT and CT technology Enthusiast
 
 #### :computer: Tech I use: 
 <div style="text-align:left">
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -54,9 +54,9 @@ IT and CT technology Enthusiast
 <br >
 <div style="text-align:center">
 <img src="profile-3d-contrib/profile-green-animate.svg" />
+<img src="https://raw.githubusercontent.com/xubingyang/xubingyang/output/github-contribution-grid-snake.svg" />
 </div>
-<br >
-<br >
+
 <br >
 <div style="text-align:center">
 <img align="left" style="width:45%" src="https://github-readme-stats.vercel.app/api?username=xubingyang&hide_border=true" />
@@ -70,7 +70,7 @@ IT and CT technology Enthusiast
 </div>
 <br >
 <div style="text-align:center">
-<img align="center" src="https://streak-stats.demolab.com/?user=xubingyang" />
+<img src="https://streak-stats.demolab.com/?user=xubingyang" />
 </div>
 <br >
 <div style="text-align:center">
